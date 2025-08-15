@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "lf3-static.bytednsdoc.com",
+        "v5-dy-o-abtest.zjcdn.com"
+      ],
+      "domain_suffix": [
+        "amemv.com",
+        "douyincdn.com",
+        "douyinpic.com",
+        "douyinstatic.com",
+        "douyinvod.com",
+        "idouyinvod.com",
+        "ixigua.com",
+        "ixiguavideo.com",
+        "pstatp.com",
+        "snssdk.com",
+        "toutiao.com",
+        "lala.gg",
+        "blog.cloudflare.com",
+        "developers.cloudflare.com",
+        "ahrefs.com",
+        "hostinger.com"
+      ],
+      "ip_cidr": [
+        "2a14:7dc0:100:101:101::577/128"
+      ]
+    }
+  ]
+}
