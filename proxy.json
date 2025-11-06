@@ -2,6 +2,10 @@
   "version": 1,
   "rules": [
     {
+
+      "domain_suffix": [
+        "ymawv.la"
+      ],
       "ip_cidr": [
         "104.16.0.0/12",
         "172.64.0.0/13"
